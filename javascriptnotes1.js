@@ -283,3 +283,20 @@
 //    // Otherwise, you loop will run infinite iterations
 //    n = n-1;
 //}
+
+
+// Factorial Expression
+//let solution = 1;
+//
+//for (let i = 1; i <= 12; i++) {
+//  solution *= i;
+//}
+//
+//console.log(solution);
+
+//function findAverage(x, y) {
+//  var answer = (x + y) / 2;
+//  return answer;
+//}
+//
+//console.log(findAverage(5, 9));
